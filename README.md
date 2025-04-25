@@ -45,5 +45,5 @@ It is designed for early-career conservationists, ecologists, or data enthusiast
 python garden_birdwatch.py
 ## 📷 Example Output
 
-![Birdwatch Summary Output](example_output)
+![Birdwatch Summary Output](example_output.png)
 
